@@ -4,9 +4,13 @@
 
 Some facts about me :
 
+
 I'm coffee enthousiast
+
 I enjoy reading mystery books
+
 And i love spend time with my family
+
 I enjoy puzzzles coding nad firguring out patters in data . 
 
 </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1clnu1RWi6ZE9fvOMJxcEj_TuWqgJsirvMD1_ZBoWtlM/edit?tab=t.0#heading=h.5x0d5h95i32 ' target=_blank><u>here</u>.</a></p>
